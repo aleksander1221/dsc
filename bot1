@@ -15,7 +15,7 @@ bot = Discordrb::Bot.new token: MjQ2MzMzMjEyOTAzNjA0MjI0.CwZHOw.FFMyxu-OT1da3QWt
 
 # Here we output the invite URL to the console so the bot account can be invited to the channel. This only has to be
 # done once, afterwards, you can remove this part if you want
-puts "This bot's invite URL is #{bot.invite_url}."
+puts "This bot's invite URL is #https://discord.gg/TgDwF."
 puts 'Click on it to invite it to your server.'
 
 # This method call adds an event handler that will be called on any message that exactly contains the string "Ping!".
